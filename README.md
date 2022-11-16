@@ -1,4 +1,4 @@
-# **SEETF 2022**
+
 
 ## Solutions for smart contracts challenges
 
