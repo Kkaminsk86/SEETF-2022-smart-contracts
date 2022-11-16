@@ -12,21 +12,21 @@ https://github.com/Social-Engineering-Experts/SEETF-2022-Public/tree/main/smart-
 
 ---
 
-### **Clone this repository**
+### **1. Clone this repository**
 
-### **Install all the project's dependencies**
+### **2. Install all the project's dependencies**
 
 ```shell
 npm install
 ```
 
-### **Compile contracts**
+### **3. Compile contracts**
 
 ```shell
 npx hardhat compile
 ```
 
-### **Run solutions**
+### **4. Run solutions**
 
 ```shell
 npx hardhat run solutions/challenge*.js
