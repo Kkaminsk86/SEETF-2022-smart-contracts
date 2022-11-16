@@ -2,7 +2,7 @@
 
 ## Solutions for smart contracts challenges
 
-### **Contract challenges source**
+### **Contract challenges source:**
 
 https://github.com/Social-Engineering-Experts/SEETF-2022-Public/tree/main/smart-contracts
 
